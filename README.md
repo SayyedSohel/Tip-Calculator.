@@ -7,6 +7,8 @@ Host Link:
 
 
 Key-Takeaways :
+
+
   Semantic HTML5 markup
   CSS custom properties
   FlexBox
@@ -14,6 +16,7 @@ Key-Takeaways :
   
   
   Project-Structure :
+  
 ├── index.html
 
 ├──styles.css
